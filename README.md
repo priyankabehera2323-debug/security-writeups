@@ -11,6 +11,7 @@ Cybersecurity grad (MCA) focused on SOC operations, digital forensics, and AI/LL
 |---|---|---|
 | [The Concierge Knows Too Much](tryhackme/the-concierge-knows-too-much.md) | AI Security | Prompt Injection, LLM Trust Boundaries, Social Engineering |
 | [Tempest Incident Response](tryhackme/tempest-incident-response.md) | DFIR / SOC Analysis | Sysmon Analysis, Log Correlation, C2 Traffic Analysis, Privilege Escalation |
+| [The Byte Lotus Hotel](tryhackme/byte-lotus-hotel.md) | Cloud Security | Cognito Identity Pools, IAM Role Misconfiguration, DynamoDB Enumeration |
 
 *(More writeups added as I complete them — updated regularly.)*
 
